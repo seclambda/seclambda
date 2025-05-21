@@ -14,7 +14,9 @@ class JEVR (Human):
 ```
 ### Lenguajes (Learning)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) (now)
+
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) (pending)
+
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) (pending)
 
 
