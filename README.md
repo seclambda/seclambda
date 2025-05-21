@@ -1,5 +1,5 @@
-## ¡Hola!, me llamo Juan 👋💻
-Programador autodidacta
+## ¡Hola!, mi nombre es ??? 🌀💻
+Self Learner
 ```py
 class JEVR (Human):
 
@@ -7,10 +7,14 @@ class JEVR (Human):
 
     self.likes = ["Programming", "Music", "Workout"]
     self.dislikes = ["Wrangling with indentation", "Recursive functions",
-      "that my code does not compile"]
+      "regex"]
 
-    self.languages = [Python, JavaScript, Bash, SQL ]
-    self.technologies = [MongoDB, Express, React, Nodejs]
+    self.languages = ["Python", "Bash", "C"]
+    self.tools = ["Pending..."]
 ```
-### Lenguajes
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+### Lenguajes (Learning)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) (now)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) (pending)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) (pending)
+
+
