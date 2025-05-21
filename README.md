@@ -6,8 +6,7 @@ class JEVR (Human):
   def __init__(self):
 
     self.likes = ["Programming", "Music", "Workout"]
-    self.dislikes = ["Wrangling with indentation", "Recursive functions",
-      "regex"]
+    self.dislikes = ["Wrangling with indentation", "Recursive functions", "Regex"]
 
     self.languages = ["Python", "Bash", "C"]
     self.tools = ["Pending..."]
