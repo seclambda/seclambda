@@ -1,4 +1,4 @@
-## ¡Hola!, mi nombre es ??? 🌀💻
+## ¡Hola!, mi nombre es Juan 🌀💻
 Self Learner
 ```py
 class JEVR (Human):
